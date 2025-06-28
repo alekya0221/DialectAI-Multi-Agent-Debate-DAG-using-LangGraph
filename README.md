@@ -73,7 +73,8 @@ DialectAI_multi_agent_debate.zip/
 │   ├── logging_utils.py        # Logs all transitions with dual time
 │   └── __init__.py
 │
-├── dag_diagram.py              # Graphviz diagram generator (optional)
+├── schema.py                   # Central schema for LangGraph state
+├── dag_diagram.py              # Graphviz diagram generator
 ├── requirements.txt            # All dependencies including LangGraph & Graphviz
 ├── .env                        # (Here the API Key needs to be added) 
 ├── debate_log.txt              # Output log with all state transitions
