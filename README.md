@@ -135,14 +135,9 @@ Each entry includes both UTC and local timestamps for auditability.
 
 ---
 
-## Demo
+## Demo video link :
 
-A 2-minute video walkthrough of:
-
-- Project structure  
-- CLI interface  
-- Judgment logic  
-- DAG diagram + logs
+https://1drv.ms/v/c/f5acb3ec174cc281/EXrfn8gWGGVCmbr0IzE_gaABBPU3DIlbMoFk4tUlqEbvPQ
 
 ---
 ## License
