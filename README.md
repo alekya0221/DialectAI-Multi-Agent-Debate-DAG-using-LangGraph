@@ -56,7 +56,7 @@ You’ll be prompted to enter a debate topic via CLI. The full 8-round debate wi
 ## File Structure
 
 ```
-DialectAI.zip/
+DialectAI_multi_agent_debate.zip/
 │
 ├── main.py                     # CLI entry point + LangGraph setup
 │
