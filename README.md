@@ -105,7 +105,7 @@ Output is saved as: `dag_diagram.png`
 
 To showcase system consistency, we've included:
 
-**`sample_debates.docx`** — a document with **4 fully recorded debate examples** across diverse topics. Each contains all 8 rounds and the final judgment.
+**`Debate Transcript_Sample.pdf`** — a document with **4 fully recorded debate examples** across diverse topics. Each contains all 8 rounds and the final judgment.
 
 ---
 
@@ -142,7 +142,7 @@ https://1drv.ms/v/c/f5acb3ec174cc281/EXrfn8gWGGVCmbr0IzE_gaABBPU3DIlbMoFk4tUlqEb
 
 ---
 ## License
-This repository is part of an internal technical assessment and project-based contribution for enterprise use. All components are modular, testable, and production-aligned. Redistribution or open-sourcing is not intended.
+This repository is part of project-based contribution. All components are modular, testable, and production-aligned. Redistribution or open-sourcing is not intended.
 
 ---
 ### Author
