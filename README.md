@@ -1,7 +1,8 @@
 # **DialectAI: Multi-Agent Debate DAG**
 
 
-A fully modular, LangGraph-powered system where two AI agents (Scientist vs. Philosopher) engage in an 8-round structured debate on a user-provided topic. The system features isolated memory views, strict turn validation, and an automated judging mechanism, all running from a clean CLI interface.
+A fully modular, LangGraph-powered system where two AI agents (Scientist vs. Philosopher) engage in an 8-round structured debate on a user-provided topic. The system features isolated memory views, strict turn validation, comprehensive logging, and an automated judging mechanism, all running from a clean CLI interface.
+Note: This system uses OpenAI’s gpt-3.5-turbo under the hood and requires an active internet connection along with a valid API key (via .env) to function.
 
 ---
 
